@@ -1,1 +1,1 @@
-hi
+print("Hi there Peter.\nWhaaattttt's happening?\nSooo, I'm going to need you to come in this Saturday.")
